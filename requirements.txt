@@ -1,0 +1,18 @@
+# Do not include azure-functions-worker as it may conflict with the Azure Functions platform
+
+azure-functions
+dotnetcore2==2.1.16
+
+azureml
+sklearn
+azureml.train
+azureml.core
+azureml-dataset-runtime
+
+azureml.train.automl
+pandas==1.2.5
+azureml.pipeline.core
+xgboost==0.90
+
+requests
+#time
