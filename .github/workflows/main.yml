@@ -43,7 +43,7 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/AutoUplift:latest
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/auto_uplift:latest
           
 
       - name: Image digest
