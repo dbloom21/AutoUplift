@@ -1,0 +1,199 @@
+2021-07-09 13:34:27.540 - INFO - 21452 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-09 13:34:28.628 - INFO - 21452 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-09 13:34:28.695 - INFO - 21452 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-09 13:34:29.851 - INFO - 21452 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1156.19[ms]
+2021-07-09 13:34:29.852 - INFO - 21452 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=1224.19[ms]
+2021-07-09 13:34:29.853 - INFO - 21452 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-09 13:34:34.259 - INFO - 21452 - azureml.automl.runtime.distributed.utilities.horovod_initialized:58 - Horovod not found in current environment. Distribution via Horovod will be disabled.
+2021-07-09 13:34:35.024 - INFO - 21452 - azureml.automl.runtime.featurization.data_transformer.__init__:174 - Feature sweeping enabled: False
+2021-07-09 13:34:35.025 - INFO - 21452 - azureml.automl.runtime.featurization.data_transformer.__init__:175 - Feature sweeping timeout: 86400
+2021-07-09 13:34:36.138 - INFO - 21452 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Success, Duration=6285.04[ms]
+2021-07-09 13:34:36.140 - INFO - 21452 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=8600.7[ms]
+2021-07-12 14:17:01.314 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: _get_best_child_run
+2021-07-12 14:17:02.395 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 14:17:03.619 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1223.73[ms]
+2021-07-12 14:17:03.620 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=_get_best_child_run, HowEnded=Success, Duration=2307.23[ms]
+2021-07-12 14:21:08.855 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: _get_best_child_run
+2021-07-12 14:21:08.900 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 14:21:10.571 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1670.22[ms]
+2021-07-12 14:21:10.572 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=_get_best_child_run, HowEnded=Success, Duration=1716.22[ms]
+2021-07-12 16:13:49.832 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-12 16:13:49.892 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-12 16:13:49.944 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 16:13:52.341 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=2396.26[ms]
+2021-07-12 16:13:52.343 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=2450.25[ms]
+2021-07-12 16:13:52.363 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 16:13:57.135 - INFO - 18448 - azureml.automl.runtime.distributed.utilities.horovod_initialized:58 - Horovod not found in current environment. Distribution via Horovod will be disabled.
+2021-07-12 16:13:57.950 - INFO - 18448 - azureml.automl.runtime.featurization.data_transformer.__init__:174 - Feature sweeping enabled: False
+2021-07-12 16:13:57.951 - INFO - 18448 - azureml.automl.runtime.featurization.data_transformer.__init__:175 - Feature sweeping timeout: 86400
+2021-07-12 16:13:58.985 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Success, Duration=6622.59[ms]
+2021-07-12 16:13:58.987 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=9154.84[ms]
+2021-07-12 16:14:23.247 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-12 16:14:23.294 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-12 16:14:23.350 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 16:14:24.467 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1117.07[ms]
+2021-07-12 16:14:24.467 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=1173.99[ms]
+2021-07-12 16:14:24.468 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 16:14:26.829 - INFO - 18448 - azureml.automl.runtime.featurization.data_transformer.__init__:174 - Feature sweeping enabled: False
+2021-07-12 16:14:26.830 - INFO - 18448 - azureml.automl.runtime.featurization.data_transformer.__init__:175 - Feature sweeping timeout: 86400
+2021-07-12 16:14:26.833 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Success, Duration=2365.1[ms]
+2021-07-12 16:14:26.860 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=3612.71[ms]
+2021-07-12 16:44:57.194 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetBestChild
+2021-07-12 16:44:57.245 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 16:44:58.897 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1651.62[ms]
+2021-07-12 16:44:58.900 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetBestChild, HowEnded=Success, Duration=1705.62[ms]
+2021-07-12 16:47:53.419 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 16:47:53.423 - CRITICAL - 18448 - azureml.train.automl._model_download_utilities.log_traceback:224 - Type: Unclassified
+Class: ValueError
+Message: invalid literal for int() with base 10: 'a6558bb2-3fc4-4e7a-80a3-521ed1b472de'
+Traceback:
+  File "telemetry_activity_logger.py", line 57, in _log_activity
+    yield
+  File "_model_download_utilities.py", line 68, in _download_automl_model
+    iteration = None if iteration_str == constants.BEST_RUN_ID_SUFFIX else int(iteration_str)
+
+ExceptionTarget: Unspecified
+2021-07-12 16:47:53.424 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Failure, Duration=4.92[ms]
+2021-07-12 16:48:13.368 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 16:48:13.371 - CRITICAL - 18448 - azureml.train.automl._model_download_utilities.log_traceback:224 - Type: Unclassified
+Class: AttributeError
+Message: 'str' object has no attribute 'id'
+Traceback:
+  File "telemetry_activity_logger.py", line 57, in _log_activity
+    yield
+  File "_model_download_utilities.py", line 67, in _download_automl_model
+    iteration_str = run.id.split('_')[-1]
+
+ExceptionTarget: Unspecified
+2021-07-12 16:48:13.372 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Failure, Duration=4.0[ms]
+2021-07-12 16:48:34.968 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 16:48:34.971 - CRITICAL - 18448 - azureml.train.automl._model_download_utilities.log_traceback:224 - Type: Unclassified
+Class: AttributeError
+Message: 'str' object has no attribute 'id'
+Traceback:
+  File "telemetry_activity_logger.py", line 57, in _log_activity
+    yield
+  File "_model_download_utilities.py", line 67, in _download_automl_model
+    iteration_str = run.id.split('_')[-1]
+
+ExceptionTarget: Unspecified
+2021-07-12 16:48:34.972 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Failure, Duration=4.0[ms]
+2021-07-12 16:48:57.416 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 16:48:57.419 - CRITICAL - 18448 - azureml.train.automl._model_download_utilities.log_traceback:224 - Type: Unclassified
+Class: ValueError
+Message: invalid literal for int() with base 10: 'a6558bb2-3fc4-4e7a-80a3-521ed1b472de'
+Traceback:
+  File "telemetry_activity_logger.py", line 57, in _log_activity
+    yield
+  File "_model_download_utilities.py", line 68, in _download_automl_model
+    iteration = None if iteration_str == constants.BEST_RUN_ID_SUFFIX else int(iteration_str)
+
+ExceptionTarget: Unspecified
+2021-07-12 16:48:57.420 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Failure, Duration=4.0[ms]
+2021-07-12 16:55:52.400 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 16:55:52.402 - CRITICAL - 18448 - azureml.train.automl._model_download_utilities.log_traceback:224 - Type: Unclassified
+Class: AttributeError
+Message: 'function' object has no attribute 'id'
+Traceback:
+  File "telemetry_activity_logger.py", line 57, in _log_activity
+    yield
+  File "_model_download_utilities.py", line 67, in _download_automl_model
+    iteration_str = run.id.split('_')[-1]
+
+ExceptionTarget: Unspecified
+2021-07-12 16:55:52.403 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Failure, Duration=3.0[ms]
+2021-07-12 16:56:42.204 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 16:56:42.206 - CRITICAL - 18448 - azureml.train.automl._model_download_utilities.log_traceback:224 - Type: Unclassified
+Class: AttributeError
+Message: 'str' object has no attribute 'id'
+Traceback:
+  File "telemetry_activity_logger.py", line 57, in _log_activity
+    yield
+  File "_model_download_utilities.py", line 67, in _download_automl_model
+    iteration_str = run.id.split('_')[-1]
+
+ExceptionTarget: Unspecified
+2021-07-12 16:56:42.208 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Failure, Duration=4.0[ms]
+2021-07-12 17:01:26.312 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 17:01:26.314 - CRITICAL - 18448 - azureml.train.automl._model_download_utilities.log_traceback:224 - Type: Unclassified
+Class: ValueError
+Message: invalid literal for int() with base 10: '7385ba37-a320-48a5-a918-d9fff79fa290'
+Traceback:
+  File "telemetry_activity_logger.py", line 57, in _log_activity
+    yield
+  File "_model_download_utilities.py", line 68, in _download_automl_model
+    iteration = None if iteration_str == constants.BEST_RUN_ID_SUFFIX else int(iteration_str)
+
+ExceptionTarget: Unspecified
+2021-07-12 17:01:26.322 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Failure, Duration=10.0[ms]
+2021-07-12 17:02:41.700 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-12 17:02:41.741 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-12 17:02:41.782 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 17:02:42.953 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1171.2[ms]
+2021-07-12 17:02:42.954 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=1213.2[ms]
+2021-07-12 17:02:42.956 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 17:02:46.107 - INFO - 18448 - azureml.automl.runtime.featurization.data_transformer.__init__:174 - Feature sweeping enabled: False
+2021-07-12 17:02:46.108 - INFO - 18448 - azureml.automl.runtime.featurization.data_transformer.__init__:175 - Feature sweeping timeout: 86400
+2021-07-12 17:02:46.130 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Success, Duration=3174.37[ms]
+2021-07-12 17:02:46.131 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=4431.59[ms]
+2021-07-12 17:04:02.640 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: _get_best_child_run
+2021-07-12 17:04:02.689 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 17:04:03.823 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1133.25[ms]
+2021-07-12 17:04:03.825 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=_get_best_child_run, HowEnded=Success, Duration=1184.26[ms]
+2021-07-12 17:04:12.237 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: _get_best_child_run
+2021-07-12 17:04:12.279 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 17:04:13.894 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1614.79[ms]
+2021-07-12 17:04:13.895 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=_get_best_child_run, HowEnded=Success, Duration=1657.79[ms]
+2021-07-12 17:04:26.439 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: _get_best_child_run
+2021-07-12 17:04:26.480 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 17:04:27.601 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1120.64[ms]
+2021-07-12 17:04:27.602 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=_get_best_child_run, HowEnded=Success, Duration=1162.65[ms]
+2021-07-12 17:05:03.263 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 17:05:03.265 - CRITICAL - 18448 - azureml.train.automl._model_download_utilities.log_traceback:224 - Type: Unclassified
+Class: AttributeError
+Message: 'function' object has no attribute 'id'
+Traceback:
+  File "telemetry_activity_logger.py", line 57, in _log_activity
+    yield
+  File "_model_download_utilities.py", line 67, in _download_automl_model
+    iteration_str = run.id.split('_')[-1]
+
+ExceptionTarget: Unspecified
+2021-07-12 17:05:03.266 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Failure, Duration=3.0[ms]
+2021-07-12 17:05:32.947 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: _get_best_child_run
+2021-07-12 17:05:32.987 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 17:05:34.172 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1184.52[ms]
+2021-07-12 17:05:34.173 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=_get_best_child_run, HowEnded=Success, Duration=1225.52[ms]
+2021-07-12 17:05:34.197 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: _get_best_child_run
+2021-07-12 17:05:34.266 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 17:05:35.294 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1027.95[ms]
+2021-07-12 17:05:35.295 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=_get_best_child_run, HowEnded=Success, Duration=1097.95[ms]
+2021-07-12 17:05:35.296 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 17:05:37.637 - INFO - 18448 - azureml.automl.runtime.featurization.data_transformer.__init__:174 - Feature sweeping enabled: False
+2021-07-12 17:05:37.637 - INFO - 18448 - azureml.automl.runtime.featurization.data_transformer.__init__:175 - Feature sweeping timeout: 86400
+2021-07-12 17:05:37.640 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Success, Duration=2343.47[ms]
+2021-07-12 17:06:21.323 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-12 17:06:21.368 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-12 17:06:21.411 - INFO - 18448 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-12 17:06:22.539 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1128.67[ms]
+2021-07-12 17:06:22.540 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=1172.67[ms]
+2021-07-12 17:06:22.541 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-12 17:06:24.714 - INFO - 18448 - azureml.automl.runtime.featurization.data_transformer.__init__:174 - Feature sweeping enabled: False
+2021-07-12 17:06:24.715 - INFO - 18448 - azureml.automl.runtime.featurization.data_transformer.__init__:175 - Feature sweeping timeout: 86400
+2021-07-12 17:06:24.717 - INFO - 18448 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Success, Duration=2175.2[ms]
+2021-07-12 17:06:24.717 - INFO - 18448 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=3393.91[ms]
+2021-07-16 15:45:33.146 - INFO - 18616 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-16 15:45:34.214 - INFO - 18616 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetOutput
+2021-07-16 15:45:34.268 - INFO - 18616 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-16 15:45:35.219 - INFO - 18616 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=951.1[ms]
+2021-07-16 15:45:35.220 - INFO - 18616 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=1006.06[ms]
+2021-07-16 15:45:35.221 - INFO - 18616 - azureml.train.automl._model_download_utilities._log_activity:54 - ActivityStarted: DownloadModel
+2021-07-16 15:45:39.130 - INFO - 18616 - azureml.automl.runtime.distributed.utilities.horovod_initialized:58 - Horovod not found in current environment. Distribution via Horovod will be disabled.
+2021-07-16 15:45:39.729 - INFO - 18616 - azureml.automl.runtime.featurization.data_transformer.__init__:174 - Feature sweeping enabled: False
+2021-07-16 15:45:39.730 - INFO - 18616 - azureml.automl.runtime.featurization.data_transformer.__init__:175 - Feature sweeping timeout: 86400
+2021-07-16 15:45:40.453 - INFO - 18616 - azureml.train.automl._model_download_utilities._log_activity:92 - ActivityCompleted: Activity=DownloadModel, HowEnded=Success, Duration=5231.3[ms]
+2021-07-16 15:45:40.454 - INFO - 18616 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=7307.91[ms]
+2021-07-16 15:45:50.620 - INFO - 18616 - azureml.train.automl.run._log_activity:54 - ActivityStarted: RegisterModel
+2021-07-16 15:45:50.669 - INFO - 18616 - azureml.train.automl.run._log_activity:54 - ActivityStarted: GetChildren
+2021-07-16 15:45:51.736 - INFO - 18616 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=1066.97[ms]
+2021-07-16 15:45:55.246 - INFO - 18616 - azureml.train.automl.run._log_activity:92 - ActivityCompleted: Activity=RegisterModel, HowEnded=Success, Duration=4626.68[ms]
